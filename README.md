@@ -37,27 +37,27 @@ O resultado do desafio é composto pelas alterações e ajustes que achei necess
 ---  
 #### O projeto está organizado da seguinte forma:  
 
-##### ├── src  
-##### │ .. ├── DioNttFinanApplication.java  
-##### │ .. ├── expections  
-##### │ .. │ .. ├── AccountNotFoundException.java  
-##### │ .. │ .. ├── AccountWithInvestmentException.java  
-##### │ .. │ .. ├── InvestmentNotFoundException.java  
-##### │ .. │ .. ├── MoneyAuditNotFoundException.java  
-##### │ .. │ .. ├── NoFundsEnoughException.java  
-##### │ .. │ .. └── PixInUseException.java  
-##### │ .. ├── model  
-##### │ .. │ .. ├── Account.java  
-##### │ .. │ .. ├── AccountWallet.java  
-##### │ .. │ .. ├── Investment.java  
-##### │ .. │ .. ├── InvestmentWallet.java  
-##### │ .. │ .. ├── Money.java  
-##### │ .. │ .. ├── MoneyAudit.java  
-##### │ .. │ .. └── Wallet.java  
-##### │ .. ├── repository  
-##### │ .. │ .. ├── AccountRepository.java  
-##### │ .. │ .. ├── CommonRepository.java  
-##### │ .. │ .. └── InvestmentRepository.java  
+##### ├── src
+##### │ .. ├── DioNttFinanApplication.java
+##### │ .. ├── expections
+##### │ .. │ .. ├── AccountNotFoundException.java
+##### │ .. │ .. ├── AccountWithInvestmentException.java
+##### │ .. │ .. ├── InvestmentNotFoundException.java
+##### │ .. │ .. ├── MoneyAuditNotFoundException.java
+##### │ .. │ .. ├── NoFundsEnoughException.java
+##### │ .. │ .. └── PixInUseException.java
+##### │ .. ├── model
+##### │ .. │ .. ├── Account.java
+##### │ .. │ .. ├── AccountWallet.java
+##### │ .. │ .. ├── Investment.java
+##### │ .. │ .. ├── InvestmentWallet.java
+##### │ .. │ .. ├── Money.java
+##### │ .. │ .. ├── MoneyAudit.java
+##### │ .. │ .. └── Wallet.java
+##### │ .. ├── repository
+##### │ .. │ .. ├── AccountRepository.java
+##### │ .. │ .. ├── CommonRepository.java
+##### │ .. │ .. └── InvestmentRepository.java
 ##### └── README.md  
 
 > ---  
