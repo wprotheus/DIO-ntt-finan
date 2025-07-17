@@ -39,7 +39,7 @@ O resultado do desafio é composto pelas alterações e ajustes que achei necess
 
 ##### ├── src
 ##### │ .. ├── DioNttFinanApplication.java
-##### │ .. ├── expections
+##### │ .. ├── exceptions
 ##### │ .. │ .. ├── AccountNotFoundException.java
 ##### │ .. │ .. ├── AccountWithInvestmentException.java
 ##### │ .. │ .. ├── InvestmentNotFoundException.java
